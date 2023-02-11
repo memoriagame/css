@@ -7,17 +7,17 @@
   --cenario: url('./cenario.png');
   --cenario1: url('./cenario1.jpg');
 }
-https://cdn.jsdelivr.net/gh/memoriagame/assets/public/music/back1.jpg
-https://cdn.jsdelivr.net/gh/memoriagame/assets/public/music/back.png
-https://cdn.jsdelivr.net/gh/memoriagame/assets/public/music/cenario.mp3
-https://cdn.jsdelivr.net/gh/memoriagame/assets/public/music/cenario1.jpg
+
+https://cdn.jsdelivr.net/gh/memoriagame/assets/public/css/back.png
+https://cdn.jsdelivr.net/gh/memoriagame/assets/public/css/cenario.mp3
+https://cdn.jsdelivr.net/gh/memoriagame/assets/public/css/cenario1.jpg
 */
 
 :root {
-  --cardImageBack1: url('./back1.jpg');
-  --cardImageBack2: url('./back.png');
-  --cenario: url('./cenario.png');
-  --cenario1: url('./cenario1.jpg');
+  --cardImageBack1: url('https://cdn.jsdelivr.net/gh/memoriagame/assets/public/css/back1.jpg');
+  --cardImageBack2: url('https://cdn.jsdelivr.net/gh/memoriagame/assets/public/css/back.png');
+  --cenario: url('https://cdn.jsdelivr.net/gh/memoriagame/assets/public/css/cenario.png');
+  --cenario1: url('https://cdn.jsdelivr.net/gh/memoriagame/assets/public/css/cenario1.jpg');
 }
 
 * {
