@@ -1,5 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
+/*
+:root {
+  --cardImageBack1: url('./back1.jpg');
+  --cardImageBack2: url('./back.png');
+  --cenario: url('./cenario.png');
+  --cenario1: url('./cenario1.jpg');
+}
+https://cdn.jsdelivr.net/gh/memoriagame/assets/public/music/back1.jpg
+https://cdn.jsdelivr.net/gh/memoriagame/assets/public/music/back.png
+https://cdn.jsdelivr.net/gh/memoriagame/assets/public/music/cenario.mp3
+https://cdn.jsdelivr.net/gh/memoriagame/assets/public/music/cenario1.jpg
+*/
+
 :root {
   --cardImageBack1: url('./back1.jpg');
   --cardImageBack2: url('./back.png');
